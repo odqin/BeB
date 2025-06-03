@@ -13,23 +13,23 @@ This CLI tool generates a fully organized backend project structure using Expres
 
 ## Installation
 You can install the CLI via [npm](https://www.npmjs.com/package/source-beb) or yarn:
-```hs
-npm install source-beb
+```bash
+npm install -g source-beb
 ```
-```hs
-yarn add source-beb
+```bash
+yarn global add source-beb
 ```
 
 ## Usage
 
 To generate a new Backend project using BeB, run the following command:
 
-```hs
+```bash
 # Initialize the CLI tool
 beb init
 ```
 
-```hs
+```bash
 # Generate a new project
 beb generate <project-name>
 ```
@@ -113,4 +113,4 @@ Created with ❤️ by [MrKhelil](https://github.com/MrKhelil/)
 [![npm](https://img.shields.io/npm/v/source-beb)](https://www.npmjs.com/package/source-beb)
 [![npm](https://img.shields.io/npm/l/source-beb)](https://www.npmjs.com/package/source-beb)
 [![npm](https://img.shields.io/npm/dt/source-beb)](https://www.npmjs.com/package/source-beb)
-[![github](https://img.shields.io/github/last-commit/MrKhelil/githubStates)](https://github.com/MrKhelil/BeB)
+[![github](https://img.shields.io/github/last-commit/MrKhelil/BeB)](https://github.com/MrKhelil/BeB)
