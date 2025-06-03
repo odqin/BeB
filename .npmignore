@@ -4,9 +4,5 @@ src/
 # Exclude node_modules
 node_modules/
 
-# Exclude imgs
-imgs/
-
 # Exclude config files
 tsconfig.json
-tsconfig.cjs.json

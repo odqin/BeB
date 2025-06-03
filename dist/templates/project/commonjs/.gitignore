@@ -1,0 +1,4 @@
+# Common files to ignore in a Node.js
+
+.env
+/node_modules

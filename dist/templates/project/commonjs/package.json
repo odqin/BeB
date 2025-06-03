@@ -1,0 +1,19 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "description": "Express MongoDB backend project",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "license": "MIT"
+}
