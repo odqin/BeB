@@ -104,13 +104,13 @@ If you have suggestions or improvements, feel free to open issues or pull reques
 
 ## Bugs and Issues
 
-If you encounter any bugs or issues, please open an issue on the [GitHub repository](https://github.com/MrKhelil/BeB).
+If you encounter any bugs or issues, please open an issue on the [GitHub repository](https://github.com/odqin/BeB).
 
 
-Created with ❤️ by [MrKhelil](https://github.com/MrKhelil/)
+Created with ❤️ by [Odqin](https://github.com/odqin/)
 
 
 [![npm](https://img.shields.io/npm/v/source-beb)](https://www.npmjs.com/package/source-beb)
 [![npm](https://img.shields.io/npm/l/source-beb)](https://www.npmjs.com/package/source-beb)
 [![npm](https://img.shields.io/npm/dt/source-beb)](https://www.npmjs.com/package/source-beb)
-[![github](https://img.shields.io/github/last-commit/MrKhelil/BeB)](https://github.com/MrKhelil/BeB)
+[![github](https://img.shields.io/github/last-commit/odqin/BeB)](https://github.com/odqin/BeB)
